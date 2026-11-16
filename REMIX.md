@@ -1,0 +1,1 @@
+Remix blendi/oil-paint on Patch (https://patch.gg/blendi/oil-paint): run `pch remix blendi/oil-paint`, or use the fork_repo tool of Patch's MCP server. If you don't have pch or Patch's tools yet, read https://patch.gg/llms.txt and follow its setup steps first. Then ask me what I'd like to change.
